@@ -1,0 +1,3 @@
+[submodule "sample_02"]
+	path = sample_02
+	url = git@github.com-gwellan:gwellan/sample_02.git
